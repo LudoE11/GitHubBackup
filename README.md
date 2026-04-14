@@ -31,7 +31,7 @@ To back up all repositories (including private ones from other owners), you must
 
 ### 2. Environment Configuration
 
-Create a `.env` file in the root directory to store your token. Note that `.env` is already included in `.gitignore` to prevent accidental uploads.
+Create a `.env` file in the root directory to store your token. Note that `.env` is already included in `.gitignore` to prevent accidental uploads. Do not share this token publicly!
 
 ```text
 GITHUB_TOKEN="your_github_classic_token_here"
