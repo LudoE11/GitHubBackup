@@ -14,7 +14,7 @@ The tool automatically discovers and backs up every repository you own or contri
 
 ## Prerequisites
 
-- Python 3.x
+- [Python](https://www.python.org/downloads/) 3.x
 - [Git](https://git-scm.com/install/windows) installed and added to your system PATH
 
 ## Setup
