@@ -1,8 +1,8 @@
 # GitHubBackup
 
-GitHubBackup is a Python-based CLI tool designed to automate local backups of your GitHub repositories. It creates full mirrors, ensuring you have a complete local copy of your code, branches, and commit history.
+GitHubBackup is a Python-based CLI tool designed to help you automate the creation of local backups of your GitHub repositories. It creates full mirrors, ensuring you have a complete local copy of your code, branches, and commit history.
 
-The tool automatically discovers and backs up every repository you own or contribute to. This includes your personal private repositories and private repositories created by others where you have collaborator access, provided your token has the necessary permissions.
+The tool automatically discovers and backs up every repository you own or contribute to. This also includes your personal private repositories and private repositories created by others where you have collaborator access, provided your token has the necessary permissions.
 
 ## Features
 
